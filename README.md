@@ -1,7 +1,7 @@
 # How to use ?
-First   : download                                                                                      
-Secound : move the file to Desktop                                                                      
-Third   : run and enter all informations                                                                
+1 : download                                                                                      
+2 : move the file to Desktop                                                                      
+3 : run and enter all informations                                                                
 
 # CodeSuggestTool
 A programm to Suggest codes / plugins
