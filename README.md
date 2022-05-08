@@ -1,3 +1,8 @@
+# How to use ?
+First   : download 
+Secound : move the file to Desktop
+Third   : run and enter all informations
+
 # CodeSuggestTool
 A programm to Suggest codes / plugins
 
