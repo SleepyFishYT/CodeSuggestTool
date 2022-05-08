@@ -1,10 +1,10 @@
+# CodeSuggestTool
+A programm to Suggest codes / plugins
+
 # How to use ?
 1 : download                                                                                      
 2 : move the file to Desktop                                                                      
 3 : run and enter all informations                                                                
-
-# CodeSuggestTool
-A programm to Suggest codes / plugins
 
 # Discord :
 Server              : discord.gg/sleepyplayground                                                                 
